@@ -2,5 +2,5 @@
 
 Bioinformatic courses taught at MBDP doctoral program focusing on use of metagenomics and genomics in microbial (ecology) research. Organized by Jenni Hultman and Antti Karkman with contribution from Mirko Rossi, Tom Delmont, Tommi Vatanen, Igor S. Pessi and Tatiana Demina.  
 
-Browse the courses and their materials under [Repositories tab](https://github.com/orgs/MBDP-bioinformatics-courses/repositories).  
+Browse the courses and their materials under [Repositories](https://github.com/orgs/MBDP-bioinformatics-courses/repositories) tab.  
 
